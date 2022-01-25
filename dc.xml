@@ -16,7 +16,7 @@
 			<dc:type>Testo</dc:type>
 			<dc:format>text/html</dc:format>
 			<dcterms:extent>16,5 Kbytes</dcterms:extent>
-			<dc:identifier xsi:type="dcterms:URI"></dc:identifier>
+			<dc:identifier xsi:type="dcterms:URI"> https://rp7296.github.io/sito-web-esame/</dc:identifier>
 			<dc:source>ISBN9788817028370</dc:source>
 			<dc:language>Italian</dc:language>
 			<dc:coverage xsi:type="dcterms:TNG" mp:ref="http://vocab.getty.edu/page/aat/30025292">Bologna, 2021-12-29</dc:coverage>
