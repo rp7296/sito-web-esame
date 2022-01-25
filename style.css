@@ -1,0 +1,366 @@
+body {
+	
+}
+
+header {
+	background-image: url(Oriana-head2.jpg);
+	height: 650px;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	align-items: center;
+	justify-content: left;
+}
+
+.navbar-brand {
+	font-size: 40px;
+}
+
+.navbar-nav{
+	margin-bottom: -10px;
+}
+
+footer a:hover{
+	color: #996633;
+}
+
+
+footer a{
+	font-size: 20px;
+	font-family: "Georgia", serif;
+}
+
+a {
+	color: #996633;
+}
+
+a:hover{
+	color: #dfbf9f;
+}
+
+.btn-outline-success{
+	background-color: #996633;
+	color: white;
+	border-color: white;
+    font-family: "Georgia", serif;
+}
+
+.btn-outline-success:hover{
+	background-color: white;
+	color: #996633;
+	border-color: #996633;
+	font-family: "Georgia", serif;
+}
+
+.btn-outline-light{
+	background-color: #996633;
+	color: white;
+	border-color: white;
+    font-family: "Georgia", serif;
+}
+
+.btn-outline-light:hover, .btn-outline-light:active{
+	background-color: white;
+	color: #996633;
+	border-color: #996633;
+	font-family: "Georgia", serif;
+}
+.btn {
+	background-color: #996633;
+	color: white;
+	border-color: white;
+    font-family: "Georgia", serif;
+}
+
+.btn:hover {
+	background-color: white;
+	color: #996633;
+	border-color: #996633;
+	font-family: "Georgia", serif;
+}
+
+.dropdown-toggle{
+	background-color: white;
+	color: #996633;
+	border-color: #996633;
+	font-family: "Georgia", serif;
+}
+
+.btn-blu{
+	background-color: #996633;
+	color: white;
+	border-color: white;
+    font-family: "Georgia", serif;
+}
+
+.btn-blu:hover{
+	background-color: white;
+	color: #996633;
+	border-color: #996633;
+	font-family: "Georgia", serif;
+}
+
+.navbar{
+     padding: -20%;
+}
+
+ul {
+
+}
+
+li {
+   font-size: 20px;
+   margin-top: 10px;
+   color: #996633;
+}
+
+section {
+	
+}
+
+.navbar-collapse {
+	font-family: "Georgia", serif;
+}
+
+.dropdown-menu{
+	border-color: #996633;
+	background-color: white;
+}
+
+.dropdown-item{
+	color: #996633;
+}
+
+.dropdown-item:hover{
+	background-color: #996633;
+	color: white;
+}
+
+.dropdown-divider{
+	border-color: #996633;
+}
+
+.card{
+	border-color: #996633;
+	margin-left: 30px;
+	margin-bottom: 20px;
+}
+
+.card-body {
+	background-color: #dfbf9f;
+}
+
+
+h1 , h2, h3, h4, h5, h6 {
+	font-family: "Georgia", serif;
+}
+
+h1 {
+
+}
+
+h2{
+	padding-top: 5%;
+	font-size: 40px;
+	margin-bottom: 50px;
+	color: #996633;
+}
+
+h3 {
+    color: #996633;
+}
+
+h4{
+	font-size: 40px;
+	color: #996633;
+	font-family: "Georgia", serif;
+}
+
+h5 {
+	font-size: 30px;
+	color: #996633;
+	font-family: "Georgia", serif;
+}
+
+h6{
+	font-size: 20px;
+	color: #996633;
+	font-family: "Georgia", serif;
+}
+
+
+p {
+}
+
+
+.container-fluid{
+	background-color:  #f2e6d9;
+}
+
+.col-md-6{
+	background-color: #dfbf9f;
+	border-radius: 10px;
+	padding: 5%;
+}
+
+
+.col-md-12{
+	background-color: #dfbf9f;
+	border-radius: 10px;
+	padding-bottom: 5%;
+}
+
+
+
+.col-md-6 {
+	padding-bottom: 5%;
+	margin-top: 20px;
+}
+
+footer{
+    color: white;
+    font-size: 20px;
+}
+
+.bi-facebook{
+	font-size: 30px;
+}
+
+.bi-instagram{
+	font-size: 30px;
+}
+
+.bi-twitter{
+	font-size: 30px;
+}
+
+.btn-secondary{
+	background-color: #996633;
+	color: white;
+	border-color: white;
+    font-family: "Georgia", serif;
+}
+
+.btn-secondary:hover{
+	background-color: white;
+	color: #996633;
+	border-color: #996633;
+	font-family: "Georgia", serif;
+}
+
+.btn-outline-secondary{
+	background-color: #996633;
+	color: white;
+	border-color: white;
+    font-family: "Georgia", serif;
+}
+
+.btn-outline-secondary:hover{
+	background-color: white;
+	color: #996633;
+	border-color: #996633;
+	font-family: "Georgia", serif;
+}
+
+.btn-outline {
+	background-color: #996633;
+	color: white;
+	border-color: white;
+    font-family: "Georgia", serif;
+}
+
+.btn-outline:hover{
+	background-color: white;
+	color: #996633;
+	border-color: #996633;
+	font-family: "Georgia", serif;
+}
+
+.pagination{
+	margin-left: 550px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.page-link{
+	color: white;
+	background-color: #996633;
+	border-radius: 2px;
+	font-family: "Georgia", serif;
+}
+
+.page-link:hover, .page-link:active, .page-link:link{
+	color: #996633;
+	background-color: white;
+	font-family: "Georgia", serif;
+}
+
+.card-tool{
+	background-color: #dfbf9f;
+}
+
+
+.box{
+  width: 150px;
+  height: 200px;
+  border: 1px solid #996633;
+  margin: 0 15px;
+  box-shadow: 1px 1px 2px #996633;
+}
+
+.box1{
+	width: 200px;
+	height: 250px;
+}
+
+img{
+	width: 200px;
+	height: 190px;
+}
+
+p1{
+	color: white;
+	font-family: "Georgia", serif;
+	font-size: 30px;
+}
+
+.text-right{
+	font-family: "Georgia", serif;
+	font-size: 20px;
+}
+
+i:hover{
+  color: #996633;
+}
+
+iframe{
+	width: 165px;
+	height: 220px;
+}
+
+.card1{
+	width: 200px;
+	margin-top: 20px;
+}
+
+.img-persona{
+	width: 100px;
+}
+
+
+
+.row1{
+	background-color: white;
+	margin-left: 50px;
+	margin-right: 30px;
+	padding-left: -60%;
+}
+
+.col-md-9{
+	background-color: #f2e6d9;
+}
+
+.card-body1{
+	background-color: white;
+	margin-left: 20px;
+}

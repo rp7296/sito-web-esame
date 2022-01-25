@@ -1,0 +1,60 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Lettera a un bambino mai nato</title>
+					<author ref="#FO" resp="Roberta Perticarà">Fallaci, Oriana</author>
+			<respStmt>
+				<resp>Sviluppato da:</resp>
+				<name xml:id="RP">Roberta Perticarà</name>
+			</respStmt>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>Inside Oriana</publisher>
+				<date>2021</date>
+				<availability>
+					<p>Questa versione digitale è stata creata ai fini di un esame. Ogni uso commerciale è vietato.</p>
+					<p>Copyright 2021, Roberta Perticarà</p>
+				</availability>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Trascritto da fonte cartacea: edizione bestBUR, 2015</p>
+				<bibl>
+				<title>Lettera a un bambino mai nato</title>
+				<author>Fallaci, Oriana</author>
+				<editor id="ed1-economica">Rizzoli, 1975</editor>
+				<editor id="ed2">BUR, 1977</editor>
+				<editor id="ed3">bestBUR, 2015</editor>
+				<pubPlace>Milano</pubPlace>
+				<date>2015</date>
+				</bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<front>
+			<div type="dedication">
+				<p xml:lang="it">
+					<quote rend="italics">
+					<closer>A chi non teme il dubbio a chi si chiede i perché senza stancarsi e a costo di soffrire di morire A chi si pone il dilemma di dare la vita o negarla questo libro è dedicato da una donna per tutte le donne.</closer>
+					</quote>
+				</p>
+			</div>
+			<titlePage>
+				<docTitle type="main">Lettera a un bambino mai nato</docTitle>
+			</titlePage>
+		</front>		
+		<body>
+			<div type="contents">
+				<p xml:lang="it" type="Capitolo" n="1">
+				<docTitle type="sub">I</docTitle>
+					<p xml:lang="it" n="1">
+						<q type="pensiero" who="#Oriana">
+							<said who="#Oriana" direct="false" aloud="false">Stanotte ho saputo che c'eri: una goccia di vita scappata dal nulla. Me ne stavo con gli occhi spalancati nel buio e d'un tratto, in quel buio, s'è acceso un lampo di certezza: si, c'eri. Esistevi. È stato come sentirsi colpire in petto da una fucilata. Mi si è fermato il cuore. E quando ha ripreso a battere con tonfi sordi, cannonate di sbalordimento, mi sono accorta di precipitare in un pozzo dove tutto era incerto e terrorizzante. Ora eccomi qui, chiusa a chiave dentro una paura che mi bagna il volto, i capelli, i pensieri. E in essa mi perdo.</said> Cerca di capire:<said who="#Oriana" direct="false" aloud="false">non è paura degli altri. Io non mi curo degli <rs type="person">altri</rs>. Non è paura di <name type="person" resp="RP">Dio</name>. <rs type="person" xml.id="Oriana">Io</rs> non credo in <name type="person" resp="RP">Dio</name>. Non è paura del dolore. <rs type="person">Io</rs> non temo il dolore. È paura di <rs type="person" xml.id="bambino" resp="RP">te</rs>, del caso che ti ha strappato al nulla, per agganciarti al mio ventre. Non sono mai stata pronta ad accoglierti, anche se ti ho molto aspettato.</said> Mi son sempre posta l'atroce domanda:<said who="#Oriana" direct="false" aloud="false"> e se nascere non ti piacesse? E se un giorno <rs type="person" xml.id="bambino">tu</rs> me lo rimproverassi</said> gridando <said who="#bambino" direct="false" aloud="true">Chi ti ha chiesto di mettermi al mondo, perché mi ci hai messo, perché?,</said> La vita è una tale fatica, <rs type="person">bambino</rs>. È una guerra che si ripete ogni giorno, e i suoi momenti di gioia sono parentesi brevi che si pagano un prezzo crudele. Come faccio a sapere che <said who="#Oriana" direct="false" aloud="false">non sarebbe giusto buttarti via, come faccio a intuire che non vuoi essere restituito al silenzio? Non puoi mica parlarmi. La tua goccia di vita è soltanto un nodo di cellule appena iniziate. Forse non è nemmeno vita ma possibilità di vita. Eppure darei tanto perché <rs type="person">tu</rs> potessi aiutarmi con un cenno, un indizio.</said> La mia <rs type="person" xml.id="mamma">mamma</rs> <said who="#mamma" direct="false" aloud="false">sostiene che glielo detti, che per questo mi mise al mondo.</said> La mia <rs type="person">mamma</rs>, vedi, non mi voleva. <said who="#Oriana" direct="false" aloud="false">Ero incominciata per sbaglio, in un attimo di altrui distrazione. E perché non nascessi ogni sera scioglieva nell'acqua una medicina. Poi la beveva, piangendo. La bevve fino alla sera in cui mi mossi, dentro il suo ventre, e le tirai un calcio per dirle di non buttarmi via.</said> <rs type="person" xml.id="mamma">Lei</rs> stava portando il bicchiere alle labbra. Subito lo allontanò e ne rovescio il contenuto per terra. Qualche mese dopo mi rotolavo vittoriosa nel sole, e se ciò sia stato bene o male non so. Quando sono felice penso che sia stato bene, quando sono infelice penso che sia stato male. Però, anche quando sono infelice, penso che mi dispiacerebbe non essere nata perché nulla è peggiore del nulla. <rs type="person">Io</rs>, te lo ripeto, <said who="#Oriana" direct="false" aloud="false"> non temo il dolore. Esso nasce con noi, cresce con noi, ad esso ci si abitua come al fatto d'avere due braccia e due gambe.</said> <rs type="person">Io</rs>, in fondo, <said who="#Oriana" direct="false" aloud="false">non temo neanche di morire: perché se <rs type="person">uno</rs> muore vuol dire che è nato, che è uscito dal niente.</said> <rs type="person">Io</rs> <said who="#Oriana" direct="false" aloud="false">temo il niente, il non esserci, il dover dire di non esserci stato, sia pure per caso, sia pure per sbaglio, sia pure per l'altrui distrazione.</said> Molte <rs type="person" xml.id="donne">donne</rs> si chiedono: <said who="#donne" direct="false" aloud="false"> mettere al mondo un <rs type="person">figlio</rs>, perché? Perché abbia fame, perché abbia freddo, perché venga tradito ed offeso, perché muoia ammazzato alla guerra o da una malattia?</said> E negano la speranza che la sua fame sia saziata, che il suo freddo sia scaldato, che la fedeltà e il rispetto gli siano <rs type="person" xml.id="amici">amici</rs>, che viva a lungo per tentar di cancellare le malattie e la guerra. Forse hanno ragione loro. <said who="#Oriana" direct="false" aloud="false">Ma il niente è da preferirsi al soffrire?</said> <rs type="person">Io</rs> perfino nelle pause in cui piango sui miei fallimenti, le mie delusioni, i miei strazi, <said who="#Oriana" direct="false" aloud="false">concludo che soffrire sia da preferirsi al niente.</said> Più allargo questo alla vita, al dilemma nascere o non nascere, finisco con l'esclamare che <said who="#Oriana" direct="false" aloud="true">nascere è meglio di non nascere.</said> <said who="#Oriana" direct="false" aloud="false">Tuttavia è lecito imporre tale ragionamento anche a <rs type="person">te</rs>? Non è come metterti al mondo per <rs type="person">me stessa</rs> e basta? Non mi interessa metterti al mondo per <rs type="person">me stessa</rs> e basta. Tanto più che non ho affatto bisogno di <rs type="person">te</rs></said>.
+						</q>
+					</p>
+				</p>
+			</div>
+		</body>
+	</text>
+</TEI>

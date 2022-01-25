@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mp:metadata xmlns:mp="http://example.org/MyProject/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/">
+	<collection xml:id="Inside Oriana">
+		<item n="1" xml:id="Capitolo">
+			<text xml:id="IT">
+			<dc:title xsi:type="mp:viaf" mp:ref="http://viaf.org/viaf/180900538">Lettera a un bambino mai nato</dc:title>
+			<dc:creator xsi:type="mp:viaf" mp:ref="http://viaf.org/viaf/27064159">Fallaci, Oriana</dc:creator>
+			<dc:date type="subject">2015</dc:date>
+			<dc:date type="creation">1975</dc:date>
+			<dc:subject xsi:type="dcterms:UDC">853.9</dc:subject>
+            <dc:subject xsi:type="dcterms:DDC">82-3</dc:subject>
+            <dc:subject xsi:type="dcterms:LCSH">https://id.loc.gov/authorities/childrensSubjects/sj2021053277.html</dc:subject>
+            <dc:description xml:lang="it"><work><q>Lettera a un bambino mai nato</q></work> è il libro di <persona>Oriana Fallaci</persona> che ha riscosso maggior successo in tutto il mondo, tradotto in 22 lingue e pubblicato in tre edizioni. Quella presa in riferimento per l'edizione digitale è la versione bestBUR del <data>2015</data>.</dc:description>
+            <dc:publisher>Iside Oriana</dc:publisher>
+			<dc:contributor>Roberta Perticarà</dc:contributor>
+			<dc:type>Testo</dc:type>
+			<dc:format>text/html</dc:format>
+			<dcterms:extent>16,5 Kbytes</dcterms:extent>
+			<dc:identifier xsi:type="dcterms:URI"></dc:identifier>
+			<dc:source>ISBN9788817028370</dc:source>
+			<dc:language>Italian</dc:language>
+			<dc:coverage xsi:type="dcterms:TNG" mp:ref="http://vocab.getty.edu/page/aat/30025292">Bologna, 2021-12-29</dc:coverage>
+			<dc:rights>Copyright 2021 Roberta Perticarà - CC-BY.</dc:rights>
+			</text>
+		</item>
+	</collection>
+</mp:metadata>
